@@ -5,4 +5,10 @@ return [
     'gato',
     'papagaio',
     'tartaruga',
+    'camaleão',
+    'coelho',
+    'galinha',
+    'raposa',
+    'pato',
+    'cavalo',
 ];
